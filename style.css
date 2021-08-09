@@ -1,0 +1,28 @@
+.dudespan{
+ background-color: rgb(232, 5, 253);   
+ color: cornsilk;
+ font-size: 20px;
+}
+.proh1{
+ width: 100%;   
+ font-size: 23px;
+ margin:0px;
+ box-shadow: 10px 10px 10px 7px  red, 15px 15px 10px 14px  yellow;
+}
+
+.my_footer{
+position: fixed;  
+color: black;  
+background-color: chartreuse;
+bottom:0;
+width:100%;
+line-height: 10px;
+text-align: center;
+}
+
+canvas{
+ border: 5px solid blue ;   
+ border-radius: 20px;
+ box-shadow: 10px 10px 10px black, 20px 20px 5px red;
+
+}
